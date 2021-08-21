@@ -1,0 +1,32 @@
+.cardContainer {
+	display: flex;
+	flex-direction: column;
+	background-color: #dff1eb;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 25px;
+	cursor: pointer;
+	backface-visibility: hidden;
+	transform: translateZ(0);
+	transition: transform 0.25s ease-out;
+  width: 20vw;
+}
+
+.description{
+  overflow: hidden;
+  height: 50px;
+}
+
+.cardContainer:hover {
+	transform: scale(1.05);
+}
+
+.addBtn{
+  color: cadetblue;
+  font-size: 20px;
+}
+
+.price{
+  color: blue;
+  font-size: 30px;
+}

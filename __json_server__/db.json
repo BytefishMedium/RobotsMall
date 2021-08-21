@@ -1,0 +1,34 @@
+{
+  "robots": [
+    {
+      "type": "Cleaning Robot",
+      "price": 113,
+      "description": "It can clean your house."
+    },
+    {
+      "type": "Battle Robot",
+      "price": 3413,
+      "description": "It will fight with you."
+    },
+    {
+      "type": "Boisterous robot",
+      "price": 99,
+      "description": "Be careful! It will make noise for you."
+    },
+    {
+      "type": "Sleeping Robot",
+      "price": 413,
+      "description": "This is a robot that is always sleeping."
+    },
+    {
+      "type": "Cat Robot",
+      "price": 999,
+      "description": "It can help you take care of your cat"
+    },
+    {
+      "type": "Cutting Robot",
+      "price": 321,
+      "description": "It can help you cut down trees"
+    }
+  ]
+}

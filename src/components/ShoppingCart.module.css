@@ -1,0 +1,43 @@
+.cartContainer {
+  display: block;
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+
+.detailsBtn{
+  background-color: #a6a6ef;
+  color: white;
+  border-radius: 5px;
+  font-size: 30px;
+  border: 0;
+}
+
+.cartDropDown {
+  background-color: slategray;
+  box-shadow: 0 1px 7px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  width: auto;
+  text-align: left;
+  z-index: 999;
+}
+
+.cartDropDown ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cartDropDown li {
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+
+.cartDropDown li:last-child {
+  border-bottom: 0;
+}

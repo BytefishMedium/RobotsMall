@@ -1,0 +1,15 @@
+{
+  "Robot": {
+    "type": {"string":  ["Cleaning Robot", "Battle Robot",
+      "Boisterous robot",  "Sleeping Robot",
+      "Cat Robot", "Cutting Robot"
+    ]},
+    "price": {"int": {
+      "min": 99, "max": 9999
+    }},
+    "description": {"string": ["It can clean your house.", "It will fight with you.",
+      "Be careful! It will make noise for you.", "This is a robot that is always sleeping.",
+      "It can help you take care of your cat", "It can help you cut down trees"
+    ]}
+  }
+}
