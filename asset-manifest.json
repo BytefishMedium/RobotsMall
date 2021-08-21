@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RobotsMall/static/css/main.796f8d87.chunk.css",
-    "main.js": "/RobotsMall/static/js/main.2aeef595.chunk.js",
-    "main.js.map": "/RobotsMall/static/js/main.2aeef595.chunk.js.map",
-    "runtime-main.js": "/RobotsMall/static/js/runtime-main.9fad3ede.js",
-    "runtime-main.js.map": "/RobotsMall/static/js/runtime-main.9fad3ede.js.map",
-    "static/js/2.8a8bb7fd.chunk.js": "/RobotsMall/static/js/2.8a8bb7fd.chunk.js",
-    "static/js/2.8a8bb7fd.chunk.js.map": "/RobotsMall/static/js/2.8a8bb7fd.chunk.js.map",
-    "static/js/3.68fdd198.chunk.js": "/RobotsMall/static/js/3.68fdd198.chunk.js",
-    "static/js/3.68fdd198.chunk.js.map": "/RobotsMall/static/js/3.68fdd198.chunk.js.map",
+    "main.css": "/RobotsMall/static/css/main.cc38e6b8.chunk.css",
+    "main.js": "/RobotsMall/static/js/main.1a51230a.chunk.js",
+    "main.js.map": "/RobotsMall/static/js/main.1a51230a.chunk.js.map",
+    "runtime-main.js": "/RobotsMall/static/js/runtime-main.7108529c.js",
+    "runtime-main.js.map": "/RobotsMall/static/js/runtime-main.7108529c.js.map",
+    "static/js/2.a00ccbff.chunk.js": "/RobotsMall/static/js/2.a00ccbff.chunk.js",
+    "static/js/2.a00ccbff.chunk.js.map": "/RobotsMall/static/js/2.a00ccbff.chunk.js.map",
+    "static/js/3.3e84382a.chunk.js": "/RobotsMall/static/js/3.3e84382a.chunk.js",
+    "static/js/3.3e84382a.chunk.js.map": "/RobotsMall/static/js/3.3e84382a.chunk.js.map",
     "index.html": "/RobotsMall/index.html",
-    "static/css/main.796f8d87.chunk.css.map": "/RobotsMall/static/css/main.796f8d87.chunk.css.map",
-    "static/js/2.8a8bb7fd.chunk.js.LICENSE.txt": "/RobotsMall/static/js/2.8a8bb7fd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/RobotsMall/static/media/Slidefu-Regular-2.e4c9a5f7.ttf"
+    "static/css/main.cc38e6b8.chunk.css.map": "/RobotsMall/static/css/main.cc38e6b8.chunk.css.map",
+    "static/js/2.a00ccbff.chunk.js.LICENSE.txt": "/RobotsMall/static/js/2.a00ccbff.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RobotsMall/static/media/DancingScript-VariableFont_wght.d618761a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fad3ede.js",
-    "static/js/2.8a8bb7fd.chunk.js",
-    "static/css/main.796f8d87.chunk.css",
-    "static/js/main.2aeef595.chunk.js"
+    "static/js/runtime-main.7108529c.js",
+    "static/js/2.a00ccbff.chunk.js",
+    "static/css/main.cc38e6b8.chunk.css",
+    "static/js/main.1a51230a.chunk.js"
   ]
 }
