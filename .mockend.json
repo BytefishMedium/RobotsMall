@@ -1,9 +1,6 @@
 {
   "Robot": {
-    "type": {"string":  ["Cleaning Robot", "Battle Robot",
-      "Boisterous robot",  "Sleeping Robot",
-      "Cat Robot", "Cutting Robot"
-    ]},
+    "type": {"string":  {}},
     "price": {"int": {
       "min": 99, "max": 9999
     }},
